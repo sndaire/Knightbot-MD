@@ -52,10 +52,10 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "911234567890"
+let phoneNumber = "254727067368"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
-global.botname = "KNIGHT BOT"
+global.botname = "UNITY BOT"
 global.themeemoji = "•"
 
 const settings = require('./settings')
